@@ -14,6 +14,16 @@ A program to display 3D graphics
 #### - A and D keys to move to the side
 #### - Left and right arrow keys to turn
 #### - 8 and 2 on the key pad to look up or down
+#### - 1: Toggle model visibility
+#### - 2: Toggle wireframe overlay
+#### - 3: Toggle Fog
+#### - 4: Toggle directional lighting
+#### - 5: Toggle directional light fixed position / fixed to camera
+#### - 6: Toggle vertex colors
+#### - 7: Toggle Texture visibility
+#### - 8: Toggle bilinear texture filtering
+#### - 9: Toggle bloom effect
+#### - 0: Toggle depth of field blur
 
 # Dependencies:
 #### - stb_image.h
