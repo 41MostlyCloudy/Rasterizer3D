@@ -39,5 +39,3 @@ A program to display 3D graphics
 # Copyright and Licensing
 
 #### - All code is licensed under the MIT license unless otherwise specified. Please check the LICENCE.md file for more information.
-
-git add <folder>/*
