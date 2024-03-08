@@ -8,6 +8,7 @@ A program to display 3D graphics
 #### - The image still contains some artifacts around edges, and the general efficiency and organization of the code is something that I hope to improve later on down the line.
 #### - Currently, the bloom and blur post-processing effects lower the framerate significantly.
 #### - I eventually plan to add support for different models and textures, as well as more control over the enviroment, such as changing the direction of the lighting.
+#### - My hope is to eventually create a simple tool that could be used as a base for various 3d games and projects, with the entire rendering pipeline available to the user in an easy to understand form.
 
 # How to use
 
