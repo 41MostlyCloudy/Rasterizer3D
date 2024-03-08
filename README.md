@@ -5,7 +5,7 @@ A program to display 3D graphics
 
 #### - This is a project that I have been working on starting in the fall of 2023 when I wanted to learn how computer graphics work.
 #### - Rasterizer3D displays a 3D model with various settings that can be enabled using the number keys at the top of the keyboard.
-#### - The image still contains some artifacts around edges, and the general efficiency and organisation of the code is something that I hope to improve later on down the line.
+#### - The image still contains some artifacts around edges, and the general efficiency and organization of the code is something that I hope to improve later on down the line.
 #### - Currently, the bloom and blur post-processing effects lower the framerate significantly.
 #### - I eventually plan to add support for different models and textures, as well as more control over the enviroment, such as changing the direction of the lighting.
 
