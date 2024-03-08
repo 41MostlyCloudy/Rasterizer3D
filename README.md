@@ -9,7 +9,7 @@ A program to display 3D graphics
 #### - Currently, the bloom and blur post-processing effects lower the framerate significantly.
 #### - I eventually plan to add support for different models and textures, as well as more control over the enviroment, such as changing the direction of the lighting.
 #### - My hope is to eventually create a simple tool that could be used as a base for various 3d games and projects, with the entire rendering pipeline available to the user in an easy to understand form.
-#### - I also made the model of the castle with the very well-textured grass.
+#### - I also made the model of the castle with the very well-textured rock.
 
 # How to use
 
