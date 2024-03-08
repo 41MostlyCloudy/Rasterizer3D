@@ -35,6 +35,7 @@ A program to display 3D graphics
 
 #### - Windows computer
 #### - Ability to instal OpenGL and GLFW
+#### - To run the project, you must download the testImage.png and the testModel.png.
 
 # Copyright and Licensing
 
