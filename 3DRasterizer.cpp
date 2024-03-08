@@ -1,6 +1,6 @@
 #include <GLFW/glfw3.h>
 
-#define STB_IMAGE_IMPLEMENTATION // Image loading library made by Sean Barrett. Loads PNGs Modified to remove most parts having to do with other file formats.
+#define STB_IMAGE_IMPLEMENTATION // Image loading library made by Sean Barrett.
 #include "stb_image.h"
 #include "OBJ_Loader.h"
 
