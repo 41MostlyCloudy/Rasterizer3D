@@ -616,7 +616,7 @@ void LoadAssets()
 {
     // Load textures
     int x, y, comps;
-    unsigned char* texData = stbi_load("texture.png", &x, &y, &comps, 3);
+    unsigned char* texData = stbi_load("testTexture.png", &x, &y, &comps, 3);
 
     //Texture addTexture;
 
@@ -639,7 +639,7 @@ void LoadAssets()
     objl::Loader Loader;
 
     // Load .obj File
-    bool isLoaded = Loader.LoadFile("untitled.obj");
+    bool isLoaded = Loader.LoadFile("testModel.obj");
 
     if (isLoaded)
     {
