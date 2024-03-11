@@ -1,5 +1,7 @@
 // OBJ_Loader.h - A Single Header OBJ Model Loader
 
+// This header was slightly modified to support vertex colors
+
 #pragma once
 
 // Iostream - STD I/O Library
